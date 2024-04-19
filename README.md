@@ -2,7 +2,7 @@
 Spawning sihost leads to unexpected behaviour in context with the Windows Desktop on Windows 10
 
 
-*Please use this following PowerShell code responsibly, with caution, and in a lab environment as it could break things or lead to unexpected behaviour.*
+*Please use this following PowerShell code responsibly, with caution, in a lab environment as it could break things or lead to unexpected behaviour.*
 
 
 ### Temporarily disturb the Windows Desktop Environment
